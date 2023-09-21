@@ -1,2 +1,8 @@
 # PSTAT-134
-These are the assignments ive worked on in my PSTAT 134 class at UCSB.
+
+PSTAT 134 at UCSB
+
+Applications of advanced data science tools for data retrieval, statistical analysis and machine learning, optimization, and visualization.
+
+
+These are the assignments I have worked on in my Statistics 34 course.
